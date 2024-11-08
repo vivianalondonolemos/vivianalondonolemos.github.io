@@ -1,0 +1,26 @@
+---
+title: "Tropical Seedologist"
+output: html_document
+---
+
+<img src="wimages/v5.jpg" alt="Under the tree. Photo by: Viviana Londoño-Lemos" style="display: block; margin-left: auto; margin-right: auto; width: 70%;" />
+
+
+Welcome to **Tropical Seedologist**, a blog where I will share stories on my path to becoming a tropical seed scientist in the short post. I will post monthly and create an IG profile with short stories about seed and seedling biology in general (I'll let you know as soon as they are available). The blog will be available in Spanish and English soon. If any of these stories resonate with you, or you want to share anything with me or just tell me your story with seeds, just message me on any of the channels in the [contact](contact.html) tab.
+
+Now, let's start seeding!
+
+
+## Have you ever noticed the plants?
+
+ <img src="wimages/v3.jpg" alt="A pretty inflorescence to cure your plant blindness" width="300" style="float: left; margin-right: 10px;"/>
+
+When I was outlining how to start this blog, I wrote down a lot of things. I thought about seeds, my PhD, how I got here, the tropical dry forest, or maybe telling the story of a plant, anyway. However, after some conversations with many people, I realized I had to start further back: with the plants themselves. And it's that our society today seems to ignore them all the time, and there's even a term that has become trending lately: plant blindness.
+
+Plant blindness is described as the inability of humans to notice these green living beings that surround us every day. Seriously, how many times are you walking and a cat crosses your path on the street, and you see the cat, but you don't see the grass, or the tree, or the bush, or the leaf, or the flower? All of it is part of the same landscape, and you simply ignore it as if it were filler. Does it happen to you? Not to me. I am a botanist and a plant biologist. Well, those are compelling reasons for me not to ignore them. Still, you can also start observing them by simply becoming aware of what wonderful organisms they are.
+
+Plants are sessile, meaning they cannot move on their own - No, it doesn't count when you move the pot -. This quality makes them organisms that have developed many strategies to survive all the changes in the environment that surrounds them and become so successful that it is still a mystery to evolutionary biologists why we have so many species of plants. Picture this, if it rains, they cannot take shelter; if the sun is too intense, they cannot seek shade; they don't dodge obstacles; and if you build your house next to them, they have no choice but to become your neighbors. But don't worry, you can cure yourself of plant blindness. Just look at them on your way and start seeing all their shapes, colors, and smells. Try to guess what they are doing to survive in that corner where you always see them. Because I'm sure that after reading this, you'll see them, and I didn't even tell you about oxygen and ecosystem services.
+
+Well, see you in November.
+
+P.S.: I partially lied... When they are seeds, they do move.

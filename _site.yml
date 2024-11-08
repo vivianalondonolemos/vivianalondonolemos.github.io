@@ -1,0 +1,17 @@
+name: "My Website"
+output_dir: "docs"  # Location where the website files will be built
+navbar:
+  title: "Viviana Londoño-Lemos"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About me"
+      href: about.html  # An additional page
+    - text: "Blog"
+      href: blog.html  # An additional page
+    - text: "Contact"
+      href: contact.html 
+output:
+  html_document:
+    theme: flatly  # Theme options include flatly, readable, etc.
+    highlight: tango

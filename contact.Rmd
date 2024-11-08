@@ -1,0 +1,15 @@
+---
+title: "Contact"
+output: html_document
+---
+
+<img src="wimages/v6.jpg" alt="Under the tree. Photo by: Viviana Londoño-Lemos" style="display: block; margin-left: auto; margin-right: auto; width: 70%;" />
+
+You can email me here: vivianalondonolemos@gmail.com
+
+Follow me on:
+
+[X](https://x.com/Vivlondonol)
+
+[Research Gate](https://www.researchgate.net/profile/Viviana-Londono-Lemos)
+
