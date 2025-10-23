@@ -1,16 +1,21 @@
 ---
 title: "Contact"
-output: html_document
+output:
+  html_document:
+    theme: cosmo # you also like Yeti
+    css: styles.css  # This line links the CSS file
 ---
 
-<img src="wimages/v6.jpg" alt="Under the tree. Photo by: Viviana Londoño-Lemos" style="display: block; margin-left: auto; margin-right: auto; width: 70%;" />
+<img src="wimages/v11.jpg" alt="At the tower of Isla Palma, Colombia. Photo by: Martin Llano Almario" style="display: block; width: 100%;"/>
 
-You can email me here: vivianalondonolemos@gmail.com
+You can email me here: [vivianalondonolemos\@gmail.com](mailto:vivianalondonolemos@gmail.com){.email}
 
 Follow me on:
 
-[X](https://x.com/Vivlondonol)
+<a href="https://bsky.app/profile/vivlondonol.bsky.social" style="background-color: #0077FF; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px; margin: 5px; display: inline-block;">bsky@vivlondonol</a>
 
-[Research Gate](https://www.researchgate.net/profile/Viviana-Londono-Lemos)
+<a href="https://www.researchgate.net/profile/Viviana-Londono-Lemos" style="background-color: #00CCBB; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px; margin: 5px; display: inline-block;">ResearchGate: Viviana-Londono-Lemos</a>
 
-[bsky](https://bsky.app/profile/vivlondonol.bsky.social)
+<a href="https://www.linkedin.com/in/viviana-londo%C3%B1o-lemos-9024b147/" style="background-color: #0A66C2; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px; margin: 5px; display: inline-block;">LinkedIn: Viviana-Londono-Lemos</a>
+
+<a href="https://x.com/Vivlondonol" style="background-color: #1DA1F2; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px; margin: 5px; display: inline-block;">x@Vivlondonol</a>

@@ -1,12 +1,15 @@
 ---
 title: "Tropical Seedologist"
-output: html_document
+output:
+  html_document:
+    theme: cosmo # you also like Yeti
+    css: styles.css     # This line links the CSS file
 editor_options: 
   markdown: 
     wrap: 72
 ---
 
-<img src="wimages/v5.jpg" alt="Under the tree. Photo by: Viviana Londoño-Lemos" style="display: block; margin-left: auto; margin-right: auto; width: 70%;"/>
+<img src="wimages/v5.jpg" alt="Under the tree. Photo by: Viviana Londoño-Lemos" style="display: block; width: 100%;"/>
 
 Welcome to **Tropical Seedologist**, a blog where I share stories about
 my journey to becoming a tropical seed scientist. I want to show you the
@@ -27,9 +30,46 @@ Seed Jargony sections, which you'll find throughout the blog.
 
 Now, let's start one seed at a time!
 
+------------------------------------------------------------------------
 
+<img src="wimages/hilum.jpg" alt="Seeds collected at Estación Experimental Forestal Horizontes, Costa Rica with the Powers Lab, Photo by: Viviana Londoño-Lemos" style="display: block; width: 100%;"/>
 
-## How to germinate: Part I 
+## Seed jargony V: Hilum
+
+*October, 2025*
+
+Remember when I told you that seeds are like baby plants? In that sense,
+they also have the first scar every human baby has: a belly button! In
+the seed's case, this scar is called the hilum. The hilum is precisely
+the scar on the seed where it was attached to its "mum's" ovary wall or
+the funicle (AKA, the umbilical cord). This feature reinforces the
+concept of treating seeds and fruits as integral parts of a plant's
+reproductive cycle and as key subjects for studying a plant's
+reproductive strategies. The hilum comes in many sizes, shapes, and
+colors, and as you'd expect, it's more noticeable in large seeds.
+Differences in hilum shapes can even help you identify species or groups
+of species!
+
+Now, it's time to cure your plant blindness again! Take a seed or
+two---no excuses, they aren't hard to find. Hold it in your hand and try
+to identify where the hilum is located. Is it noticeable or not? In some
+seeds, you may also notice another opening. "What? More than one hole?!"
+you might think. This is only because you haven't observed nature in
+detail, and yes, because in some seeds there might be more than one
+opening. The other one is the micropyle, which is the place through
+which the pollen tube arrives at the ovule. In some cases, the micropyle
+is noticeable, and in others, it is not. We'll talk about that in the
+next Seed Jargony section.
+
+So now you know more than you did before! And if that doesn't impress
+anyone, then they might be very boring. Happy Halloween, and see you in
+November!
+
+------------------------------------------------------------------------
+
+<img src="wimages/Howto_germinate.jpeg" alt="Seedling of *Spondias mombin*, Photo by: Luciano Macias Sposito" style="display: block; width: 100%;"/>
+
+## How to germinate: Part I
 
 *September, 2025*
 
@@ -60,9 +100,11 @@ As mysterious and abrupt as it sounds, this process is controlled by
 many other factors that we'll explore in the following posts! See you in
 October!
 
+------------------------------------------------------------------------
 
+<img src="wimages/Cotyledons.jpeg" alt="Cotyledons and seedling of *Bursera simarouba*, Photo by: Viviana Londoño Lemos" style="display: block; width: 100%;"/>
 
-## Seed jargony IV: Cotyledons 
+## Seed jargony IV: Cotyledons
 
 *August, 2025*
 
@@ -97,9 +139,11 @@ reflect the evolutionary history of the species.
 We'll be talking more about cotyledons in the future when we discuss the
 different kinds of germination. See you in September!
 
+------------------------------------------------------------------------
 
+<img src="wimages/Forest_savings.jpg" alt="Your favorite tropical seed ecologist collecting the soil seed bank in a tropical dry forest in Costa Rica, Photo by: Rebecca Lerdau" style="display: block; width: 100%;"/>
 
-## A forest's savings account 
+## A forest's savings account
 
 *July, 2025*
 
@@ -139,9 +183,11 @@ spring, depending on the ecosystem) to sprout.
 Do you have savings? Don't worry, I won't pry! That's it for today. See
 you in August!
 
+------------------------------------------------------------------------
 
+<img src="wimages/Nutritious.jpeg" alt="Seedling of *Gouania*, Photo by: Viviana Londoño Lemos" style="display: block; width: 100%;"/>
 
-## Seed jargony III: Endosperm and other nutritious tissues 
+## Seed jargony III: Endosperm and other nutritious tissues
 
 *June, 2025*
 
@@ -184,9 +230,11 @@ able to germinate.
 
 That's it for today. See you in July!
 
+------------------------------------------------------------------------
 
+<img src="wimages/Special_relativity.jpeg" alt="Soil seed bank samples germinating, Photo by: Viviana Londoño Lemos" style="display: block; width: 100%;"/>
 
-## Special relativity and the seed dispersal 
+## Special relativity and the seed dispersal
 
 *May, 2025*
 
@@ -238,9 +286,11 @@ ten-thousands of years. Honestly, Einstein should have studied seeds.
 That's it for this month. I hope you've learned and enjoyed it. See you
 in June!
 
+------------------------------------------------------------------------
 
+<img src="wimages/Seed_embryo.jpg" alt="Embryo of *Leucaena leucocephala*, Photo by: Luciano Macias Sposito" style="display: block; width: 100%;"/>
 
-## Seed jargony II: Seed embryo 
+## Seed jargony II: Seed embryo
 
 *April, 2025*
 
@@ -270,9 +320,11 @@ exciting transition from an embryo to a seedling.
 
 I hope you learned something today! See you in May.
 
+------------------------------------------------------------------------
 
+<img src="wimages/Conained_naked.jpeg" alt="Conifers can be deceiving, here a *Juniperus* cone, Photo by: Viviana Londoño Lemos" style="display: block; width: 100%;"/>
 
-## Contained vs. naked seeds 
+## Contained vs. naked seeds
 
 *March, 2025*
 
@@ -325,7 +377,11 @@ generation. It's like seeing a pregnant person, but zipped!
 As always, I hope you're a little more aware of plants now. See you next
 month.
 
-## Seed jargony I: Seed coat 
+------------------------------------------------------------------------
+
+<img src="wimages/Seed_coat.jpg" alt="Photo of the seed coat of *Vachelia farnesiana*, Photo by: Luciano Macías Sposito" style="display: block; width: 100%;"/>
+
+## Seed jargony I: Seed coat
 
 *February, 2025*
 
@@ -358,7 +414,9 @@ soil, where it becomes part of the ecosystem.
 I hope this definition gives you a clearer picture of the seed coat. See
 you in March!
 
+------------------------------------------------------------------------
 
+<img src="wimages/swhy_care.jpg" alt="The view from El Mirador at the Santa Rosa National Park in Guanacaste, Costa Rica, Photo by: Viviana Londoño-Lemos" style="display: block; width: 100%;"/>
 
 ## Why should you care about the biology of seeds and seedlings?
 
@@ -408,7 +466,9 @@ you'll love them as much as I do.
 
 Think about it, and I'll see you in February!
 
+------------------------------------------------------------------------
 
+<img src="wimages/sWhat_seed.jpeg" alt="A *Quercus* seed germinating at the Morton Arboretum, Photo by: Viviana Londoño-Lemos" style="display: block; width: 100%;"/>
 
 ## So... What Is a Seed, Anyway?
 
@@ -446,9 +506,11 @@ them all into one sentence!
 
 Happy end of the year, and see you next year!
 
+------------------------------------------------------------------------
 
+<img src="wimages/One_seed_time.jpeg" alt="A *Guazuma ulmifolia* seedling, Photo by: Viviana Londoño-Lemos" style="display: block; width: 100%;"/>
 
-## One seed at a time 
+## One seed at a time
 
 November, 2024
 
@@ -490,11 +552,11 @@ years in the making---and maybe the beginning of a forest.
 We will learn about these very fundamental and ancient structures on our
 blog. So if you'd like to keep learning more, see you in December.
 
+------------------------------------------------------------------------
 
+<img src="wimages/v3.png" alt="A pretty inflorescence to cure your plant blindness (*Mimosa*), Photo by: Viviana Londoño-Lemos" style="display: block; width: 100%;"/>
 
 ## Have you ever noticed the plants?
-
-<img src="wimages/v3.jpg" alt="A pretty inflorescence to cure your plant blindness" width="300" style="float: left; margin-right: 10px;"/>
 
 October, 2024
 
