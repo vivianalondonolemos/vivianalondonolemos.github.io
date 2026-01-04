@@ -32,6 +32,48 @@ Now, let's start one seed at a time!
 
 ------------------------------------------------------------------------
 
+<img src="wimages/Micropyle.jpeg" alt="Seeds of a legume from Costa Rica, Photo by: Viviana Londoño-Lemos" style="display: block; width: 100%;"/>
+
+## Seed jargony V: Micropyle
+
+*December, 2025*
+
+I’m going to keep this one simple because it’s December—we need to close out the year and be merry with whoever we call family. Also, my computer recently broke, which means spending a big chunk of time choosing a replacement, but it’s actually a bit of a silver lining because now I know exactly what I want for Christmas!
+
+Anyway, last time in this section, we talked about an aperture or opening in the seed coat that acts like a scar: the belly button of the seed, the hilum. However, in that seed coat, there are more than just scars; there are also tiny holes. One of those is the micropyle.
+
+The micropyle is an opening formed by the layers of tissue that surround the ovule (remember: a seed is essentially a fertilized ovule). These protective layers are called integuments (or teguments). They protect the ovule’s nuclei, which contain the genetic material from the "mother" plant.
+
+During fertilization, the pollen tube reaches the nuclei of the ovule through this small opening. Even after the seed is fully formed, the micropyle remains in many species, usually located right next to the hilum. In other seeds, it becomes completely blocked once the seed coat is fully developed.
+
+Go and look for this tiny hole! If you have a bean seed nearby, it should be right there.
+
+Happy holidays, and enjoy what is left of 2025. See you in January!
+
+------------------------------------------------------------------------
+
+<img src="wimages/HowtogerminateII.jpeg" alt="Seedling of Cactaceae, Photo by: Viviana Londoño-Lemos" style="display: block; width: 100%;"/>
+
+## How to germinate: Part II
+
+*November, 2025*
+
+Keeping up with this series of instructions, see this as a handbook on how plants germinate. A key aspect is how seedlings—the newborns—decide to emerge from the seed. As you might imagine, scientists have developed names for what appears to be a simple action, yet is crucial for a plant's life: emergence.
+
+There are two main philosophical branches—can I say cotyledons, or does it sound too much like a dad joke?—regarding how to emerge: hypogeal and epigeal germination.
+
+In hypogeal germination, the cotyledons stay below (hypo) ground (gea). The upper part of the seedling stem (the epicotyl, which will have its own Seed Jargony section soon) elongates and pushes up the first true leaves and shoot, called the plumule. This means plants with hypogeal germination keep their cotyledons underground as a food source while the seedling grows. A classic example is the pea.
+
+On the other hand, in epigeal germination, the part below the cotyledons (the hypocotyl) elongates and pushes the cotyledons above (epi) ground (gea). After this, the cotyledons expand and become green and photosynthetic, looking like real leaves. Eventually, the "true" leaves appear, and after some time, the cotyledons fall off. A great example of this is the bean.
+
+In other words, the two main strategies are to either keep your cotyledons down or bring them up. Notice how both examples (peas vs. beans) are from the same family. This suggests that these mechanisms tell us more about ecological strategies—how to survive where you live—than just taxonomy. Are you relying on your cotyledons to start photosynthesis immediately, or are you keeping them safe underground as a backup? That is the story I plan to tell in How to Germinate: Part III.
+
+A final consideration: I used the "usual suspects" for these names, but there are even nerdier terms! When cotyledons are fully exposed from the seed coat, it’s called phanerocotylar (phaenos meaning visible)—common in epigeal plants. When they remain hidden in the seed coat, it’s cryptocotylar. These technical terms cover more ground because, as usual, plants are too complex to be encapsulated in just two worlds. If you don’t believe me, go check how the Durian germinates: is it epigeal or hypogeal?
+
+See you in December!
+
+------------------------------------------------------------------------
+
 <img src="wimages/hilum.jpg" alt="Seeds collected at Estación Experimental Forestal Horizontes, Costa Rica with the Powers Lab, Photo by: Viviana Londoño-Lemos" style="display: block; width: 100%;"/>
 
 ## Seed jargony V: Hilum
